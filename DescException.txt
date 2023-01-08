@@ -1,0 +1,8 @@
+java.lang.ArithmeticException: / by zero
+	at book.shildt.chapter9.method.PrintStackTraceFileDemo.method(PrintStackTraceFileDemo.java:21)
+	at book.shildt.chapter9.method.PrintStackTraceFileDemo.main(PrintStackTraceFileDemo.java:10)
+
+java.lang.ArithmeticException: / by zero
+	at book.shildt.chapter9.method.PrintStackTraceFileDemo.method(PrintStackTraceFileDemo.java:21)
+	at book.shildt.chapter9.method.PrintStackTraceFileDemo.main(PrintStackTraceFileDemo.java:10)
+
