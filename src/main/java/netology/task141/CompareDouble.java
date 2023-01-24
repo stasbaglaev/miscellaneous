@@ -39,6 +39,6 @@ public class CompareDouble {
     }
 
     private static void discardFraction(double d) {
-        System.out.printf("Дробная часть числа %f отброшена, полученное число: %d", d, (int) d);
+        System.out.printf("Дробная часть числа %f отброшена, полученное число: %d", d, (long) d);
     }
 }
